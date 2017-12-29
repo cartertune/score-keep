@@ -1,0 +1,23 @@
+
+.item {
+  background: #ffffff;
+  border: .1rem solid #e8e8e8;
+  margin-bottom: 1.3rem;
+  padding: 1.3rem;
+}
+
+.item--position-1 {
+  background: $blue;
+  border: $alt-blue;
+}
+
+.item--position-2 {
+
+  background: $green;
+  border-color: $alt-green;
+}
+
+.item--position-3 {
+  background: $red;
+  border-color: $alt-red;
+}

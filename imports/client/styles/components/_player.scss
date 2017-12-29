@@ -1,0 +1,34 @@
+
+.player {
+
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+
+
+}
+
+.player__name {
+
+  color: #444444;
+  font-size: 1.8rem;
+  font-weight: 300;
+
+
+
+}
+
+.player__stats {
+
+  color: #444444;
+  font-size: 1.3rem;
+  font-style: italic;
+  font-weight: 300;
+
+}
+
+.player__actions {
+
+  flex-shrink: 0;
+
+}
